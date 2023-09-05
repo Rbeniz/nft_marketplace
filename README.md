@@ -15,4 +15,4 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-https://github.com/Rbeniz/nft_marketplace/assets/63969755/a702ee5f-a743-4d52-95f4-4f682eab14bf
+![Demo nft_arketplace](https://github.com/Rbeniz/nft_marketplace/assets/63969755/0cc9e572-45d1-4939-a403-4d6fc2b03496)
